@@ -50,20 +50,6 @@ I'm a backend developer and system administrator from Germany with a passion for
 * Plesk
 * phpMyAdmin
 
-## 🌟 Featured Projects
-
-### 🌐 JN Networks
-
-Private infrastructure platform providing networking services, mail systems, gateways and security solutions.
-
-### 🛡️ JN DNSBL
-
-DNS-based blacklist service for blocking malicious IP addresses and domains.
-
-### 🔍 JNIPDB
-
-IP and domain reputation service providing contextual information for security analysis.
-
 ## 🎯 Interests
 
 Backend Development • System Administration • Linux • Networking • DNS • APIs • Cybersecurity • Infrastructure • Automation
